@@ -1,2 +1,2 @@
 # GIT-Testing
-Teesting pur[ose
+Teesting purpose
